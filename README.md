@@ -1,3 +1,4 @@
 # PYGAME-Space-Invader
 Creating Space Invaders game using Pygame
-Space invader game with "custom" enemies, sound and background
+Space invader game from scratch
+With "custom" enemies, sound and background
