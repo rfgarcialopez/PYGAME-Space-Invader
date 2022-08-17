@@ -1,6 +1,6 @@
-# PYGAME-Space-Invader
-Space Invaders game using Pygame library Created from scratch
-With "custom" enemies, sound and background
+# Getting Started
+Remake of the old school Space Invaders game using Pygame library.
+Created from scratch with custom enemies, sound and background.
 
 # Library
 Pygame
