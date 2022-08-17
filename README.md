@@ -1,4 +1,4 @@
-**PYGAME-Space-Invader:**
+# PYGAME-Space-Invader:
 
 # Getting Started
 Remake of the old school Space Invaders game using Pygame library.
