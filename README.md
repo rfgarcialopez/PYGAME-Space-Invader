@@ -4,10 +4,15 @@ Created from scratch with custom enemies, sound and background.
 
 # Used libraries
 pandas
+
 numpy
+
 random
+
 copy
+
 math
+
 pygame
 
 # Contact
