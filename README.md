@@ -6,17 +6,7 @@ Created from scratch with custom enemies, sound and background.
 Download and play!
 
 # Used libraries
-pandas
-
-numpy
-
-random
-
-copy
-
-math
-
-pygame
+copy - math - numpy - pandas - pygame - random
 
 # Contact
 rfgarcialopez@gmail.com
